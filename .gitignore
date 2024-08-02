@@ -1,0 +1,3 @@
+node_modules/\nbuild/\n.env\n.DS_Store
+
+node_modules
